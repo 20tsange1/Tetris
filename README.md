@@ -2,7 +2,7 @@
 This is a project involving the classic game Tetris. The objective is to develop an algorithm for the highest possible score with a limited number of blocks.
 
 ## Example "Gameplay"
-![](https://github.com/20tsange1/Tetris/TetrisExample.gif)
+![](https://github.com/20tsange1/Tetris/blob/main/TetrisExample.gif)
 
 ## What does it consists of?
 The player.py file contains my algorithms and functions written to pick and optimise the next move.
