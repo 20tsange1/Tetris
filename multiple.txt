@@ -1,0 +1,2817 @@
+Seed: 161
+Score: 11032
+
+Seed: 670
+Score: 10064
+
+Seed: 705
+Score: 8686
+
+Seed: 879
+Score: 12865
+
+Seed: 942
+Score: 16030
+
+Seed: 499
+Score: 10946
+
+Seed: 921
+Score: 14352
+
+Seed: 36
+Score: 14885
+
+Seed: 66
+Score: 16724
+
+Seed: 492
+Score: 12494
+
+Seed: 550
+Score: 17777
+
+Seed: 592
+Score: 7182
+
+Seed: 48
+Score: 14067
+
+Seed: 465
+Score: 17861
+
+Seed: 774
+Score: 17861
+
+Seed: 304
+Score: 17861
+
+Seed: 67
+Score: 17861
+
+Seed: 426
+Score: 17861
+
+Seed: 262
+Score: 17861
+
+Seed: 568
+Score: 12566
+
+Seed: 649
+Score: 15528
+
+Seed: 751
+Score: 10987
+
+Seed: 676
+Score: 12170
+
+Seed: 224
+Score: 8521
+
+Seed: 577
+Score: 19246
+
+Seed: 907
+Score: 10935
+
+Seed: 450
+Score: 8760
+
+Seed: 860
+Score: 17245
+
+Seed: 981
+Score: 15556
+
+Seed: 475
+Score: 17424
+
+Seed: 708
+Score: 17699
+
+Seed: 903
+Score: 14586
+
+Seed: 218
+Score: 8391
+
+Seed: 138
+Score: 17547
+
+Seed: 317
+Score: 10235
+
+Seed: 691
+Score: 17046
+
+Seed: 459
+Score: 7615
+
+Seed: 430
+Score: 16454
+
+Seed: 778
+Score: 16750
+
+Seed: 564
+Score: 12710
+
+Seed: 148
+Score: 14084
+
+Seed: 837
+Score: 14226
+
+Seed: 687
+Score: 15889
+
+Seed: 645
+Score: 19005
+
+Seed: 582
+Score: 17134
+
+Seed: 332
+Score: 15432
+
+Seed: 648
+Score: 15557
+
+Seed: 512
+Score: 12163
+
+Seed: 575
+Score: 11303
+
+Seed: 881
+Score: 15634
+
+Seed: 59
+Score: 18881
+
+Seed: 534
+Score: 14208
+
+Seed: 819
+Score: 16554
+
+Seed: 526
+Score: 14050
+
+Seed: 434
+Score: 12076
+
+Seed: 252
+Score: 19063
+
+Seed: 330
+Score: 5822
+
+Seed: 534
+Score: 14208
+
+Seed: 753
+Score: 14899
+
+Seed: 699
+Score: 16147
+
+Seed: 879
+Score: 10309
+
+Seed: 458
+Score: 16975
+
+Seed: 668
+Score: 12909
+
+Seed: 239
+Score: 10823
+
+Seed: 33
+Score: 18534
+
+Seed: 644
+Score: 14877
+
+Seed: 595
+Score: 15172
+
+Seed: 73
+Score: 16383
+
+Seed: 82
+Score: 17687
+
+Seed: 791
+Score: 17324
+
+Seed: 793
+Score: 8787
+
+Seed: 664
+Score: 6783
+
+Seed: 674
+Score: 16010
+
+Seed: 467
+Score: 12008
+
+Seed: 922
+Score: 6778
+
+Seed: 555
+Score: 17027
+
+Seed: 254
+Score: 6443
+
+Seed: 69
+Score: 3493
+
+Seed: 488
+Score: 17007
+
+Seed: 256
+Score: 11326
+
+Seed: 368
+Score: 5735
+
+Seed: 607
+Score: 14529
+
+Seed: 678
+Score: 14340
+
+Seed: 131
+Score: 6507
+
+Seed: 813
+Score: 4609
+
+Seed: 294
+Score: 1226
+
+Seed: 601
+Score: 10445
+
+Seed: 923
+Score: 10370
+
+Seed: 834
+Score: 16436
+
+Seed: 836
+Score: 13779
+
+Seed: 916
+Score: 6000
+
+Seed: 754
+Score: 11696
+
+Seed: 638
+Score: 14307
+
+Seed: 642
+Score: 15084
+
+Seed: 700
+Score: 19136
+
+Seed: 689
+Score: 19301
+
+Seed: 54
+Score: 11528
+
+Seed: 862
+Score: 15197
+
+Seed: 421
+Score: 14738
+
+Seed: 33
+Score: 18534
+
+Seed: 330
+Score: 5822
+
+Seed: 851
+Score: 9211
+
+Seed: 995
+Score: 7643
+
+Seed: 707
+Score: 16042
+
+Seed: 810
+Score: 10094
+
+Seed: 354
+Score: 15464
+
+Seed: 372
+Score: 11313
+
+Seed: 172
+Score: 13018
+
+Seed: 593
+Score: 16204
+
+Seed: 84
+Score: 15113
+
+Seed: 522
+Score: 16757
+
+Seed: 169
+Score: 11968
+
+Seed: 327
+Score: 14588
+
+Seed: 40
+Score: 13521
+
+Seed: 697
+Score: 12084
+
+Seed: 555
+Score: 11846
+
+Seed: 484
+Score: 8377
+
+Seed: 281
+Score: 16585
+
+Seed: 592
+Score: 19502
+
+Seed: 189
+Score: 3102
+
+Seed: 512
+Score: 12163
+
+Seed: 146
+Score: 16606
+
+Seed: 792
+Score: 17525
+
+Seed: 376
+Score: 5839
+
+Seed: 787
+Score: 15349
+
+Seed: 881
+Score: 16298
+
+Seed: 648
+Score: 17016
+
+Seed: 30
+Score: 12656
+
+Seed: 729
+Score: 15986
+
+Seed: 501
+Score: 14623
+
+Seed: 986
+Score: 15363
+
+Seed: 999
+Score: 14650
+
+Seed: 458
+Score: 4999
+
+Seed: 753
+Score: 13915
+
+Seed: 627
+Score: 2707
+
+Seed: 543
+Score: 19393
+
+Seed: 887
+Score: 12380
+
+Seed: 631
+Score: 4191
+
+Seed: 870
+Score: 18595
+
+Seed: 150
+Score: 16422
+
+Seed: 881
+Score: 15456
+
+Seed: 403
+Score: 6092
+
+Seed: 831
+Score: 20629
+
+Seed: 961
+Score: 8345
+
+Seed: 689
+Score: 10454
+
+Seed: 488
+Score: 18242
+
+Seed: 425
+Score: 4400
+
+Seed: 614
+Score: 3127
+
+Seed: 671
+Score: 16634
+
+Seed: 60
+Score: 12319
+
+Seed: 329
+Score: 17618
+
+Seed: 414
+Score: 11959
+
+Seed: 913
+Score: 3748
+
+Seed: 251
+Score: 18095
+
+Seed: 848
+Score: 10696
+
+Seed: 889
+Score: 17993
+
+Seed: 291
+Score: 17279
+
+Seed: 390
+Score: 11580
+
+Seed: 415
+Score: 13762
+
+Seed: 744
+Score: 11681
+
+Seed: 60
+Score: 12309
+
+Seed: 192
+Score: 8947
+
+Seed: 318
+Score: 21024
+
+Seed: 603
+Score: 6858
+
+Seed: 598
+Score: 8099
+
+Seed: 136
+Score: 10830
+
+Seed: 928
+Score: 10264
+
+Seed: 182
+Score: 16782
+
+Seed: 902
+Score: 17092
+
+Seed: 993
+Score: 13978
+
+Seed: 151
+Score: 11156
+
+Seed: 458
+Score: 12552
+
+Seed: 616
+Score: 18528
+
+Seed: 737
+Score: 3354
+
+Seed: 627
+Score: 14568
+
+Seed: 81
+Score: 17335
+
+Seed: 271
+Score: 17715
+
+Seed: 157
+Score: 17388
+
+Seed: 827
+Score: 17914
+
+Seed: 97
+Score: 8714
+
+Seed: 876
+Score: 15091
+
+Seed: 855
+Score: 16034
+
+Seed: 152
+Score: 12388
+
+Seed: 273
+Score: 15205
+
+Seed: 652
+Score: 15541
+
+Seed: 476
+Score: 20037
+
+Seed: 405
+Score: 15550
+
+Seed: 796
+Score: 11301
+
+Seed: 157
+Score: 17388
+
+Seed: 543
+Score: 18310
+
+Seed: 416
+Score: 13812
+
+Seed: 472
+Score: 15265
+
+Seed: 361
+Score: 22632
+
+Seed: 566
+Score: 10717
+
+Seed: 133
+Score: 9682
+
+Seed: 88
+Score: 16842
+
+Seed: 607
+Score: 14129
+
+Seed: 473
+Score: 2627
+
+Seed: 436
+Score: 7803
+
+Seed: 65
+Score: 2565
+
+Seed: 676
+Score: 6296
+
+Seed: 938
+Score: 14383
+
+Seed: 792
+Score: 18304
+
+Seed: 259
+Score: 9740
+
+Seed: 214
+Score: 11664
+
+Seed: 446
+Score: 7665
+
+Seed: 33
+Score: 18534
+
+Seed: 988
+Score: 6960
+
+Seed: 785
+Score: 11414
+
+Seed: 785
+Score: 11414
+
+Seed: 3
+Score: 15852
+
+Seed: 695
+Score: 15487
+
+Seed: 982
+Score: 17582
+
+Seed: 651
+Score: 12780
+
+Seed: 942
+Score: 15446
+
+Seed: 497
+Score: 15580
+
+Seed: 768
+Score: 15076
+
+Seed: 657
+Score: 13813
+
+Seed: 428
+Score: 15824
+
+Seed: 535
+Score: 14928
+
+Seed: 524
+Score: 15914
+
+Seed: 97
+Score: 12205
+
+Seed: 277
+Score: 13935
+
+Seed: 658
+Score: 13067
+
+Seed: 579
+Score: 8375
+
+Seed: 837
+Score: 14226
+
+Seed: 308
+Score: 15750
+
+Seed: 739
+Score: 11070
+
+Seed: 945
+Score: 16255
+
+Seed: 13
+Score: 8316
+
+Seed: 121
+Score: 17372
+
+Seed: 747
+Score: 10535
+
+Seed: 986
+Score: 11419
+
+Seed: 924
+Score: 14215
+
+Seed: 295
+Score: 18350
+
+Seed: 46
+Score: 12293
+
+Seed: 376
+Score: 14098
+
+Seed: 144
+Score: 16265
+
+Seed: 37
+Score: 14351
+
+Seed: 98
+Score: 16175
+
+Seed: 246
+Score: 11327
+
+Seed: 717
+Score: 16919
+
+Seed: 560
+Score: 18844
+
+Seed: 998
+Score: 13623
+
+Seed: 212
+Score: 11978
+
+Seed: 83
+Score: 16465
+
+Seed: 983
+Score: 17471
+
+Seed: 981
+Score: 15556
+
+Seed: 555
+Score: 11846
+
+Seed: 413
+Score: 11870
+
+Seed: 687
+Score: 15889
+
+Seed: 781
+Score: 13045
+
+Seed: 602
+Score: 10202
+
+Seed: 145
+Score: 13201
+
+Seed: 498
+Score: 8803
+
+Seed: 988
+Score: 6960
+
+Seed: 914
+Score: 14644
+
+Seed: 607
+Score: 10947
+
+Seed: 520
+Score: 12277
+
+Seed: 572
+Score: 14535
+
+Seed: 840
+Score: 1987
+
+Seed: 655
+Score: 11772
+
+Seed: 717
+Score: 16919
+
+Seed: 640
+Score: 12437
+
+Seed: 90
+Score: 15921
+
+Seed: 703
+Score: 6182
+
+Seed: 254
+Score: 14514
+
+Seed: 988
+Score: 6960
+
+Seed: 933
+Score: 17548
+
+Seed: 369
+Score: 6774
+
+Seed: 80
+Score: 17686
+
+Seed: 385
+Score: 17655
+
+Seed: 834
+Score: 17472
+
+Seed: 88
+Score: 21264
+
+Seed: 616
+Score: 12980
+
+Seed: 282
+Score: 14414
+
+Seed: 139
+Score: 13285
+
+Seed: 996
+Score: 18425
+
+Seed: 684
+Score: 18675
+
+Seed: 559
+Score: 19687
+
+Seed: 128
+Score: 10299
+
+Seed: 934
+Score: 18110
+
+Seed: 582
+Score: 15748
+
+Seed: 596
+Score: 16680
+
+Seed: 72
+Score: 20246
+
+Seed: 146
+Score: 15310
+
+Seed: 606
+Score: 17130
+
+Seed: 114
+Score: 8781
+
+Seed: 145
+Score: 13201
+
+Seed: 261
+Score: 16845
+
+Seed: 562
+Score: 15691
+
+Seed: 501
+Score: 16882
+
+Seed: 716
+Score: 19289
+
+Seed: 601
+Score: 10772
+
+Seed: 868
+Score: 11031
+
+Seed: 573
+Score: 16682
+
+Seed: 670
+Score: 14972
+
+Seed: 578
+Score: 18335
+
+Seed: 633
+Score: 12267
+
+Seed: 832
+Score: 17798
+
+Seed: 114
+Score: 8781
+
+Seed: 485
+Score: 8184
+
+Seed: 491
+Score: 17175
+
+Seed: 424
+Score: 14687
+
+Seed: 858
+Score: 15827
+
+Seed: 579
+Score: 8375
+
+Seed: 36
+Score: 16477
+
+Seed: 616
+Score: 12980
+
+Seed: 538
+Score: 9285
+
+Seed: 491
+Score: 17175
+
+Seed: 700
+Score: 19136
+
+Seed: 749
+Score: 19434
+
+Seed: 589
+Score: 24104
+
+Seed: 172
+Score: 7351
+
+Seed: 714
+Score: 13916
+
+Seed: 821
+Score: 15231
+
+Seed: 792
+Score: 18304
+
+Seed: 934
+Score: 10942
+
+Seed: 940
+Score: 16672
+
+Seed: 825
+Score: 15318
+
+Seed: 462
+Score: 14549
+
+Seed: 760
+Score: 15095
+
+Seed: 182
+Score: 19056
+
+Seed: 404
+Score: 14861
+
+Seed: 756
+Score: 11835
+
+Seed: 90
+Score: 3766
+
+Seed: 781
+Score: 3161
+
+Seed: 704
+Score: 17023
+
+Seed: 747
+Score: 16502
+
+Seed: 226
+Score: 5162
+
+Seed: 929
+Score: 4906
+
+Seed: 523
+Score: 16163
+
+Seed: 651
+Score: 21854
+
+Seed: 1000
+Score: 11682
+
+Seed: 719
+Score: 10883
+
+Seed: 576
+Score: 9606
+
+Seed: 356
+Score: 14340
+
+Seed: 215
+Score: 14004
+
+Seed: 399
+Score: 6172
+
+Seed: 198
+Score: 14258
+
+Seed: 673
+Score: 6692
+
+Seed: 517
+Score: 2472
+
+Seed: 872
+Score: 7437
+
+Seed: 840
+Score: 13394
+
+Seed: 988
+Score: 14939
+
+Seed: 472
+Score: 7504
+
+Seed: 361
+Score: 12149
+
+Seed: 827
+Score: 16506
+
+Seed: 840
+Score: 13394
+
+Seed: 988
+Score: 8030
+
+Seed: 472
+Score: 7504
+
+Seed: 361
+Score: 12149
+
+Seed: 827
+Score: 14548
+
+Seed: 840
+Score: 17032
+
+Seed: 988
+Score: 3792
+
+Seed: 472
+Score: 3617
+
+Seed: 361
+Score: 18637
+
+Seed: 827
+Score: 12143
+
+Seed: 840
+Score: 17032
+
+Seed: 988
+Score: 3792
+
+Seed: 472
+Score: 3617
+
+Seed: 361
+Score: 18637
+
+Seed: 827
+Score: 12143
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 361
+Score: 17974
+
+Seed: 827
+Score: 20628
+
+Seed: 840
+Score: 8690
+
+Seed: 988
+Score: 12614
+
+Seed: 840
+Score: 13681
+
+Seed: 988
+Score: 15067
+
+Seed: 472
+Score: 9029
+
+Seed: 361
+Score: 12490
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 840
+Score: 12065
+
+Seed: 988
+Score: 9128
+
+Seed: 472
+Score: 11893
+
+Seed: 361
+Score: 17974
+
+Seed: 827
+Score: 20863
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 361
+Score: 17974
+
+Seed: 827
+Score: 20628
+
+Seed: 840
+Score: 3176
+
+Seed: 988
+Score: 8492
+
+Seed: 472
+Score: 13072
+
+Seed: 361
+Score: 18119
+
+Seed: 827
+Score: 13055
+
+Seed: 840
+Score: 9609
+
+Seed: 988
+Score: 5089
+
+Seed: 472
+Score: 14465
+
+Seed: 361
+Score: 15168
+
+Seed: 827
+Score: 14552
+
+Seed: 840
+Score: 11531
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 15239
+
+Seed: 361
+Score: 15923
+
+Seed: 827
+Score: 8902
+
+Seed: 840
+Score: 5202
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 12129
+
+Seed: 361
+Score: 15923
+
+Seed: 827
+Score: 20628
+
+Seed: 840
+Score: 5202
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 9128
+
+Seed: 472
+Score: 13423
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 361
+Score: 17974
+
+Seed: 827
+Score: 20628
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 361
+Score: 17974
+
+Seed: 827
+Score: 20628
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 9128
+
+Seed: 472
+Score: 13423
+
+Seed: 361
+Score: 17974
+
+Seed: 827
+Score: 20628
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 9128
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 9128
+
+Seed: 472
+Score: 13423
+
+Seed: 361
+Score: 17974
+
+Seed: 827
+Score: 20863
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 840
+Score: 12065
+
+Seed: 840
+Score: 15028
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 361
+Score: 15168
+
+Seed: 827
+Score: 20628
+
+Seed: 840
+Score: 5828
+
+Seed: 840
+Score: 5828
+
+Seed: 840
+Score: 5828
+
+Seed: 988
+Score: 12614
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 13423
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 472
+Score: 10406
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 8552
+
+Seed: 840
+Score: 11240
+
+Seed: 840
+Score: 7437
+
+Seed: 840
+Score: 9208
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 16324
+
+Seed: 472
+Score: 14046
+
+Seed: 361
+Score: 14609
+
+Seed: 827
+Score: 17572
+
+Seed: 840
+Score: 1987
+
+Seed: 840
+Score: 18863
+
+Seed: 988
+Score: 12614
+
+Seed: 840
+Score: 9841
+
+Seed: 988
+Score: 18938
+
+Seed: 472
+Score: 18722
+
+Seed: 361
+Score: 17508
+
+Seed: 827
+Score: 15136
+
+Seed: 840
+Score: 13596
+
+Seed: 988
+Score: 9857
+
+Seed: 472
+Score: 14846
+
+Seed: 198
+Score: 15876
+
+Seed: 716
+Score: 17853
+
+Seed: 312
+Score: 7767
+
+Seed: 234
+Score: 18495
+
+Seed: 844
+Score: 6516
+
+Seed: 405
+Score: 12895
+
+Seed: 886
+Score: 13682
+
+Seed: 901
+Score: 18429
+
+Seed: 247
+Score: 14204
+
+Seed: 822
+Score: 14453
+
+Seed: 606
+Score: 15972
+
+Seed: 407
+Score: 15019
+
+Seed: 44
+Score: 20045
+
+Seed: 137
+Score: 16463
+
+Seed: 103
+Score: 20226
+
+Seed: 255
+Score: None
+
+Seed: 63
+Score: 22173
+
+Seed: 579
+Score: 21285
+
+Seed: 413
+Score: 22367
+
+Seed: 866
+Score: 18875
+
+Seed: 736
+Score: 21652
+
+Seed: 415
+Score: 26519
+
+Seed: 398
+Score: 18225
+
+Seed: 949
+Score: 20060
+
+Seed: 816
+Score: None
+
+Seed: 656
+Score: 23490
+
+Seed: 869
+Score: None
+
+Seed: 555
+Score: None
+
+Seed: 611
+Score: None
+
+Seed: 998
+Score: None
+
+Seed: 282
+Score: None
+
+Seed: 46
+Score: 27407
+
+Seed: 534
+Score: 15384
+
+Seed: 519
+Score: None
+
+Seed: 566
+Score: 22054
+
+Seed: 230
+Score: None
+
+Seed: 723
+Score: 20926
+
+Seed: 527
+Score: 20460
+
+Seed: 651
+Score: None
+
+Seed: 280
+Score: 21223
+
+Seed: 505
+Score: 17509
+
+Seed: 761
+Score: 24115
+
+Seed: 84
+Score: 21291
+
+Seed: 22
+Score: 20326
+
+Seed: 304
+Score: 25064
+
+Seed: 822
+Score: 18365
+
+Seed: 114
+Score: 21530
+
+Seed: 545
+Score: 26282
+
+Seed: 765
+Score: None
+
+Seed: 647
+Score: 21114
+
+Seed: 624
+Score: None
+
+Seed: 833
+Score: 23074
+
+Seed: 703
+Score: 19656
+
+Seed: 730
+Score: 18621
+
+Seed: 943
+Score: 20999
+
+Seed: 40
+Score: 20085
+
+Seed: 43
+Score: None
+
+Seed: 830
+Score: 22655
+
+Seed: 548
+Score: 20312
+
+Seed: 483
+Score: None
+
+Seed: 277
+Score: 23661
+
+Seed: 562
+Score: 23632
+
+Seed: 711
+Score: None
+
+Seed: 842
+Score: 17345
+
+Seed: 297
+Score: 23552
+
+Seed: 234
+Score: 19752
+
+Seed: 298
+Score: 2535
+
+Seed: 586
+Score: None
+
+Seed: 702
+Score: 7369
+
+Seed: 999
+Score: 10113
+
+Seed: 392
+Score: 25550
+
+Seed: 288
+Score: 16708
+
+Seed: 5
+Score: 18832
+
+Seed: 609
+Score: 21708
+
+Seed: 483
+Score: 16798
+
+Seed: 751
+Score: 13296
+
+Seed: 7
+Score: 23553
+
+Seed: 966
+Score: 18138
+
+Seed: 946
+Score: 7041
+
+Seed: 896
+Score: 12959
+
+Seed: 439
+Score: 25821
+
+Seed: 698
+Score: 9947
+
+Seed: 742
+Score: 18715
+
+Seed: 823
+Score: 1921
+
+Seed: 729
+Score: 7422
+
+Seed: 537
+Score: 504
+
+Seed: 512
+Score: 11110
+
+Seed: 141
+Score: 2075
+
+Seed: 911
+Score: 8188
+
+Seed: 475
+Score: 18945
+
+Seed: 483
+Score: 18302
+
+Seed: 315
+Score: 19320
+
+Seed: 82
+Score: 33116
+
+Seed: 147
+Score: 3906
+
+Seed: 428
+Score: 1601
+
+Seed: 242
+Score: 8382
+
+Seed: 200
+Score: 11258
+
+Seed: 72
+Score: 5001
+
+Seed: 920
+Score: 28869
+
+Seed: 33
+Score: 15429
+
+Seed: 706
+Score: 6644
+
+Seed: 583
+Score: 7797
+
+Seed: 386
+Score: 12080
+
+Seed: 317
+Score: 18506
+
+Seed: 584
+Score: 16198
+
+Seed: 429
+Score: 23444
+
+Seed: 499
+Score: 26808
+
+Seed: 169
+Score: 17510
+
+Seed: 161
+Score: 2131
+
+Seed: 740
+Score: 3297
+
+Seed: 629
+Score: 13631
+
+Seed: 85
+Score: 13747
+
+Seed: 694
+Score: 18890
+
+Seed: 394
+Score: 5267
+
+Seed: 992
+Score: 11183
+
+Seed: 263
+Score: 10387
+
+Seed: 123
+Score: 9076
+
+Seed: 977
+Score: 20135
+
+Seed: 440
+Score: 17246
+
+Seed: 662
+Score: 22784
+
+Seed: 366
+Score: 17181
+
+Seed: 862
+Score: 20587
+
+Seed: 542
+Score: 22487
+
+Seed: 515
+Score: 33088
+
+Seed: 536
+Score: 21833
+
+Seed: 655
+Score: 4659
+
+Seed: 623
+Score: 8499
+
+Seed: 932
+Score: 9763
+
+Seed: 89
+Score: 7472
+
+Seed: 966
+Score: 7180
+
+Seed: 683
+Score: 12119
+
+Seed: 390
+Score: 11781
+
+Seed: 190
+Score: 4809
+
+Seed: 157
+Score: 8130
+
+Seed: 293
+Score: 16241
+
+Seed: 568
+Score: 9202
+
+Seed: 88
+Score: 15022
+
+Seed: 574
+Score: 10879
+
+Seed: 694
+Score: 4433
+
+Seed: 545
+Score: 30635
+
+Seed: 840
+Score: 6189
+
+Seed: 657
+Score: 27014
+
+Seed: 556
+Score: 21989
+
+Seed: 171
+Score: 18617
+
+Seed: 342
+Score: 31507
+
+Seed: 369
+Score: 3266
+
+Seed: 958
+Score: 3393
+
+Seed: 337
+Score: 6121
+
+Seed: 261
+Score: 2645
+
+Seed: 602
+Score: 19459
+
+Seed: 183
+Score: 26988
+
+Seed: 808
+Score: 3620
+
+Seed: 438
+Score: 12152
+
+Seed: 497
+Score: 21266
+
+Seed: 871
+Score: 23985
+
+Seed: 522
+Score: 24640
+
+Seed: 703
+Score: 4328
+
+Seed: 413
+Score: 5150
+
+Seed: 456
+Score: 1163
+
+Seed: 484
+Score: 9924
+
+Seed: 138
+Score: 7346
+
+Seed: 32
+Score: 11956
+
+Seed: 516
+Score: 13412
+
+Seed: 745
+Score: 6278
+
+Seed: 360
+Score: 911
+
+Seed: 508
+Score: 9539
+
+Seed: 252
+Score: 8553
+
+Seed: 698
+Score: 3596
+
+Seed: 785
+Score: 1153
+
+Seed: 429
+Score: 922
+
+Seed: 692
+Score: 2981
+
+Seed: 492
+Score: 4932
+
+Seed: 941
+Score: 8316
+
+Seed: 559
+Score: 4395
+
+Seed: 965
+Score: 2368
+
+Seed: 394
+Score: 4226
+
+Seed: 338
+Score: 2798
+
+Seed: 654
+Score: 9578
+
+Seed: 375
+Score: 24907
+
+Seed: 537
+Score: 22091
+
+Seed: 444
+Score: 9548
+
+Seed: 353
+Score: 14465
+
+Seed: 804
+Score: 18929
+
+Seed: 542
+Score: 1540
+
+Seed: 574
+Score: 5025
+
+Seed: 594
+Score: 6018
+
+Seed: 564
+Score: 16464
+
+Seed: 232
+Score: 17132
+
+Seed: 646
+Score: 568
+
+Seed: 910
+Score: 9383
+
+Seed: 348
+Score: 7071
+
+Seed: 387
+Score: 799
+
+Seed: 541
+Score: 988
+
+Seed: 875
+Score: 675
+
+Seed: 775
+Score: 3291
+
+Seed: 854
+Score: 9391
+
+Seed: 264
+Score: 4268
+
+Seed: 827
+Score: 2372
+
+Seed: 577
+Score: 21505
+
+Seed: 466
+Score: 5141
+
+Seed: 890
+Score: 28866
+
+Seed: 89
+Score: 3243
+
+Seed: 473
+Score: 16667
+
+Seed: 717
+Score: 30350
+
+Seed: 716
+Score: 754
+
+Seed: 213
+Score: 14438
+
+Seed: 786
+Score: 43105
+
+Seed: 343
+Score: 26406
+
+Seed: 394
+Score: 5746
+
+Seed: 28
+Score: 39571
+
+Seed: 521
+Score: 10133
+
+Seed: 391
+Score: 2925
+
+Seed: 98
+Score: 22491
+
+Seed: 802
+Score: 8306
+
+Seed: 361
+Score: 19587
+
+Seed: 416
+Score: 1513
+
+Seed: 908
+Score: 19270
+
+Seed: 186
+Score: 13926
+
+Seed: 196
+Score: 4589
+
+Seed: 243
+Score: 44754
+
+Seed: 628
+Score: 22078
+
+Seed: 800
+Score: 13113
+
+Seed: 891
+Score: 17542
+
+Seed: 691
+Score: 31788
+
+Seed: 374
+Score: 590
+
+Seed: 882
+Score: 1171
+
+Seed: 347
+Score: 31510
+
+Seed: 20
+Score: 40007
+
+Seed: 913
+Score: 16236
+
+Seed: 576
+Score: 8615
+
+Seed: 479
+Score: 17985
+
+Seed: 759
+Score: 13061
+
+Seed: 99
+Score: 12548
+
+Seed: 280
+Score: 39335
+
+Seed: 347
+Score: 31510
+
+Seed: 494
+Score: 8481
+
+Seed: 984
+Score: 28691
+
+Seed: 437
+Score: 24377
+
+Seed: 403
+Score: 12171
+
+Seed: 556
+Score: 12417
+
+Seed: 164
+Score: 21244
+
+Seed: 142
+Score: 21285
+
+Seed: 409
+Score: 40105
+
+Seed: 577
+Score: 35534
+
+Seed: 979
+Score: 21514
+
+Seed: 788
+Score: 9366
+
+Seed: 967
+Score: 6912
+
+Seed: 516
+Score: 12361
+
+Seed: 606
+Score: 9691
+
+Seed: 660
+Score: 7445
+
+Seed: 84
+Score: 8030
+
+Seed: 161
+Score: 9793
+
+Seed: 273
+Score: 30191
+
+Seed: 398
+Score: 21528
+
+Seed: 876
+Score: 25708
+
+Seed: 110
+Score: 25910
+
+Seed: 374
+Score: 590
+
+Seed: 727
+Score: 35984
+
+Seed: 69
+Score: 1048
+
+Seed: 71
+Score: 17692
+
+Seed: 701
+Score: 28724
+
+Seed: 840
+Score: 4601
+
+Seed: 670
+Score: 30420
+
+Seed: 213
+Score: 30362
+
+Seed: 82
+Score: 46257
+
+Seed: 728
+Score: 50050
+
+Seed: 177
+Score: 11562
+
+Seed: 494
+Score: 2390
+
+Seed: 803
+Score: 8374
+
+Seed: 723
+Score: 48915
+
+Seed: 84
+Score: 6005
+
+Seed: 195
+Score: 24348
+
+Seed: 807
+Score: 43405
+
+Seed: 241
+Score: 28572
+
+Seed: 247
+Score: 30258
+
+Seed: 922
+Score: 641
+
+Seed: 536
+Score: 16072
+
+Seed: 238
+Score: 36410
+
+Seed: 405
+Score: 6529
+
+Seed: 139
+Score: 7600
+
+Seed: 847
+Score: 15516
+
+Seed: 404
+Score: 40006
+
+Seed: 500
+Score: 17158
+
+Seed: 806
+Score: 6582
+
+Seed: 265
+Score: 12517
+
+Seed: 699
+Score: 28017
+
+Seed: 492
+Score: 15121
+
+Seed: 181
+Score: 25699
+
+Seed: 980
+Score: 13657
+
+Seed: 596
+Score: 6768
+
+Seed: 876
+Score: 11253
+
+Seed: 980
+Score: 13657
+
+Seed: 265
+Score: 12517
+
+Seed: 424
+Score: 8029
+
+Seed: 802
+Score: 6925
+
+Seed: 93
+Score: 29004
+
+Seed: 378
+Score: 1376
+
+Seed: 135
+Score: 34352
+
+Seed: 907
+Score: 2622
+
+Seed: 47
+Score: 7687
+
+Seed: 705
+Score: 11312
+
+Seed: 105
+Score: 2937
+
+Seed: 148
+Score: 19053
+
+Seed: 699
+Score: 21736
+
+Seed: 754
+Score: 44923
+
+Seed: 451
+Score: 35802
+
+Seed: 85
+Score: 810
+
+Seed: 135
+Score: 29085
+
+Seed: 412
+Score: 43848
+
+Seed: 313
+Score: 12472
+
+Seed: 667
+Score: 11087
+
+Seed: 468
+Score: 17444
+
+Seed: 322
+Score: 12166
+
+Seed: 941
+Score: 29512
+
+Seed: 374
+Score: 13243
+
+Seed: 800
+Score: 29110
+
+Seed: 513
+Score: 29064
+
+Seed: 346
+Score: 9858
+
+Seed: 419
+Score: 10525
+
+Seed: 173
+Score: 8057
+
+Seed: 323
+Score: 23802
+
+Seed: 788
+Score: 29616
+
+Seed: 53
+Score: 11609
+
+Seed: 691
+Score: 13712
+
+Seed: 266
+Score: 22158
+
+Seed: 366
+Score: 40468
+
+Seed: 585
+Score: 35749
+
+Seed: 94
+Score: 9371
+
+Seed: 920
+Score: 24479
+
+Seed: 459
+Score: 2329
+
+Seed: 619
+Score: 31979
+
+Seed: 93
+Score: 43851
+
+Seed: 304
+Score: 21005
+
+Seed: 738
+Score: 2723
+
+Seed: 307
+Score: 17668
+
+Seed: 880
+Score: 46856
+
+Seed: 149
+Score: 16108
+
+Seed: 997
+Score: 49246
+
+Seed: 146
+Score: 17719
+
+Seed: 90
+Score: 31966
+
+Seed: 900
+Score: 46220
+
+Seed: 589
+Score: 17263
+
+Seed: 625
+Score: 32191
+
+Seed: 655
+Score: 9336
+
+Seed: 519
+Score: 30195
+
+Seed: 241
+Score: 40565
+
+Seed: 378
+Score: 1183
+
+Seed: 481
+Score: 3112
+
+Seed: 777
+Score: 15327
+
+Seed: 437
+Score: 32329
+
+Seed: 254
+Score: 30670
+
+Seed: 342
+Score: 1907
+
+Seed: 327
+Score: 35501
+
+Seed: 484
+Score: 551
+
+Seed: 423
+Score: 39278
+
+Seed: 84
+Score: 29592
+
+Seed: 18
+Score: 2897
+
+Seed: 960
+Score: 25509
+
+Seed: 872
+Score: 8234
+
+Seed: 673
+Score: 32892
+
+Seed: 458
+Score: 8329
+
+Seed: 202
+Score: 2235
+
+Seed: 412
+Score: 15770
+
+Seed: 729
+Score: 24910
+
+Seed: 538
+Score: 50209
+
+Seed: 853
+Score: 34990
+
+Seed: 747
+Score: 14178
+
+Seed: 827
+Score: 11773
+
+Seed: 881
+Score: 37963
+
+Seed: 198
+Score: 3843
+
+Seed: 228
+Score: 15666
+
+Seed: 816
+Score: 4468
+
+Seed: 707
+Score: 17343
+
+Seed: 398
+Score: 30287
+
+Seed: 872
+Score: 39733
+
+Seed: 674
+Score: 35653
+
+Seed: 906
+Score: 15249
+
+Seed: 177
+Score: 32931
+
+Seed: 366
+Score: 10954
+
+Seed: 859
+Score: 14245
+
+Seed: 141
+Score: 786
+
+Seed: 649
+Score: 796
+
+Seed: 909
+Score: 19013
+
+Seed: 856
+Score: 736
+
+Seed: 116
+Score: 23569
+
+Seed: 916
+Score: 20770
+
+Seed: 349
+Score: 25990
+
+Seed: 608
+Score: 1815
+
+Seed: 512
+Score: 2053
+
+Seed: 156
+Score: 5987
+
+Seed: 497
+Score: 19393
+
+Seed: 775
+Score: 6669
+
+Seed: 181
+Score: 33984
+
+Seed: 433
+Score: 47806
+
+Seed: 934
+Score: 10544
+
+Seed: 736
+Score: 12764
+
+Seed: 38
+Score: 51854
+
+Seed: 212
+Score: 7578
+
+Seed: 32
+Score: 35648
+
+Seed: 864
+Score: 676
+
+Seed: 98
+Score: 4222
+
+Seed: 420
+Score: 5509
+
+Seed: 785
+Score: 28586
+
+Seed: 230
+Score: 628
+
+Seed: 206
+Score: 41814
+
+Seed: 744
+Score: 6702
+
+Seed: 0
+Score: 10243
+
+Seed: 992
+Score: 5878
+
+Seed: 916
+Score: 2696
+
+Seed: 619
+Score: 49613
+
+Seed: 217
+Score: 16918
+
+Seed: 870
+Score: 14449
+
+Seed: 25
+Score: 7991
+
+Seed: 353
+Score: 9626
+
+Seed: 21
+Score: 33363
+
+Seed: 926
+Score: 23652
+
+Seed: 588
+Score: 21134
+
+Seed: 420
+Score: 16846
+
+Seed: 325
+Score: 33474
+
+Seed: 707
+Score: 41166
+
+Seed: 958
+Score: 51436
+
+Seed: 467
+Score: 24608
+
+Seed: 611
+Score: 21381
+
+Seed: 502
+Score: 25911
+
+Seed: 569
+Score: 25077
+
+Seed: 490
+Score: 17298
+
+Seed: 493
+Score: 12092
+
+Seed: 823
+Score: 8671
+
+Seed: 451
+Score: 11086
+
+Seed: 998
+Score: 6514
+
+Seed: 276
+Score: 29957
+
+Seed: 819
+Score: 628
+
+Seed: 553
+Score: 13854
+
+Seed: 65
+Score: 30821
+
+Seed: 121
+Score: 9785
+
+Seed: 971
+Score: 29883
+
+Seed: 720
+Score: 25985
+
+Seed: 870
+Score: 7382
+
+Seed: 6
+Score: 41089
+
+Seed: 940
+Score: 11161
+
+Seed: 795
+Score: 38667
+
+Seed: 779
+Score: 14088
+
+Seed: 462
+Score: 9363
+
+Seed: 878
+Score: 3828
+
+Seed: 107
+Score: 9550
+
+Seed: 186
+Score: 17150
+
+Seed: 102
+Score: 4997
+
+Seed: 34
+Score: 39479
+
+Seed: 135
+Score: 18886
+
+Seed: 133
+Score: 25954
+
+Seed: 46
+Score: 49156
+
+Seed: 6775
+Score: 10795
+
+Seed: 65666
+Score: 16270
+
+Seed: 34362
+Score: 10215
+
+Seed: 86381
+Score: 817
+
+Seed: 54879
+Score: 10933
+
+Seed: 93856
+Score: 4385
+
+Seed: 65493
+Score: 41135
+
